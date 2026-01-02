@@ -1,1 +1,1 @@
-এখানে Navigation এর জন্য : Stack, Tabs and Drawer ৩ টা ব্যাবহার করা হয়েছে ।
+এখানে Expo React Native Navigation এর জন্য : Stack, Tabs and Drawer ৩ টা ব্যাবহার করা হয়েছে ।
